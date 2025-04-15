@@ -1,2 +1,5 @@
-demo/target/test-classes/com/example/AppTest.class
-demo/target/classes/com/example/App.class
+*.class
+*.jar
+*.zip
+*.env
+*.log
