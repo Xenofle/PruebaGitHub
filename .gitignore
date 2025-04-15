@@ -3,3 +3,4 @@
 *.zip
 *.env
 *.log
+demo/target/classes/com/example/config.conf
